@@ -13,3 +13,8 @@ Alamat `amqp://guest:guest@localhost:5672` digunakan untuk menyambung ke sebuah 
 Publisher dan subsriber berinteraksi dengan message broker/server yang sama.
 
 ![](rabbitMq.png)
+
+
+![](terminal.png)
+Publisher mengirimkan pesan kepada broker RabbitMQ dan Subscriber mengambil dan memprosesny. Proses pengiriman data dari Publisher-Subsriber yang menggunakan RabbitMQ sebagai perantara.
+ 
