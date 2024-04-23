@@ -18,3 +18,6 @@ Publisher dan subsriber berinteraksi dengan message broker/server yang sama.
 ![](terminal.png)
 Publisher mengirimkan pesan kepada broker RabbitMQ dan Subscriber mengambil dan memprosesny. Proses pengiriman data dari Publisher-Subsriber yang menggunakan RabbitMQ sebagai perantara.
  
+![](chart.png)
+Gambar tersebut menggambarkan aktivitas publisher dalam mengirimkan pesannya. Kita juga dapat memantau message rates tersebut. Chart dapat membantu memahami banyaknya pengiriman dan pemrosesan yang terjadi.
+
